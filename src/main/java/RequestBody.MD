@@ -5,7 +5,7 @@ retrieve data from the HTTP requests.
 
 The most common ways to retrieve data from the HTTP requests:
 - Path parameters
-- HTTP Request body
+- HTTP Request body 
 
 We have already learned in the previous last lab how to use path parameters. This lab is going to talk about 
 retrieving data from the request body.
